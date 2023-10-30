@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="50px" viewBox="0 0 50 50" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 35.66 35.67 C 32.425 34.28 29.715 31.91 27.91 28.89 C 27.74 28.58 27.79 28.2 28.03 27.94 L 29.58 26.25 C 29.8 26.015 29.86 25.675 29.73 25.38 L 27.29 20.73 C 27.29 20.73 26.21 19.08 24 20.5 C 24 20.5 18.19 25.04 21.9 31.28 C 25.61 37.52 29.1 39.63 32.24 41.16 C 34.97 42.49 40.88 44.26 44.45 37.77 C 44.45 37.77 45.7 35.77 44.45 35.26 C 43.88 35.03 40.77 33.49 39.45 32.85 C 39.105 32.68 38.69 32.77 38.45 33.07 L 36.59 35.42 C 36.37 35.7 35.99 35.8 35.66 35.67 Z M 35.66 35.67 " transform="matrix(0.78125,0,0,0.78125,0,0)"/>
+<path style="fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8.86 53.49 L 12.86 42.29 C 7.3 32.225 10.025 19.6 19.245 12.725 C 28.465 5.855 41.345 6.845 49.405 15.055 C 57.46 23.26 58.22 36.155 51.175 45.245 C 44.135 54.34 31.46 56.835 21.5 51.09 Z M 8.86 53.49 " transform="matrix(0.78125,0,0,0.78125,0,0)"/>
+</g>
+</svg>
